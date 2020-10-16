@@ -4,4 +4,4 @@ Build a machine learning model to predict if a credit card application will get 
 ### Project Description
 Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays.
 
-![credit card]https://medici-prod.s3-us-west-2.amazonaws.com/uploads/are-credit-cards-the-same-in-the-us-and-canada.jpg
+![credit card](https://medici-prod.s3-us-west-2.amazonaws.com/uploads/are-credit-cards-the-same-in-the-us-and-canada.jpg)
